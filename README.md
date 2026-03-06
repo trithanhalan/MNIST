@@ -1,5 +1,7 @@
 # MNIST Handwritten Digit Predictor
 
+> **Legacy Project:** This project was built on TensorFlow 2.12 and is preserved as an archive piece. The live Streamlit deployment has been spun down to focus on modern GenAI applications.
+
 A comprehensive machine learning project for handwritten digit recognition using the MNIST dataset. This project includes exploratory data analysis, model comparison between MLP and CNN architectures, and an interactive web interface for predictions.
 
 ## Dataset
@@ -89,9 +91,6 @@ Both models are evaluated on:
 - F1 score
 - Prediction latency
 - Confusion matrix analysis
-
-## Deployment
-The application is deployed on Streamlit Cloud. You can access it at: [Add your deployed app link here]
 
 ## Requirements
 - Python 3.9+
